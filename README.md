@@ -15,12 +15,6 @@
 <div id="stat" align="center">
   <img src="https://komarev.com/ghpvc/?username=danp1t&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="hello" align="center">
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI0djVtazNwNHRocDRjYXY1cmhhdTQwd2oybWRwbHg0OTllb25ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.gif" width="100px"/>
-</h1>
-</div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZ2c3FzaTRrYzZ0aXI4cjYxdml4MTM1YjRjNnRlaHkzZTd3NGVoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
