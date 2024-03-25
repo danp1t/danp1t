@@ -18,9 +18,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZ2c3FzaTRrYzZ0aXI4cjYxdml4MTM1YjRjNnRlaHkzZTd3NGVoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
-### :man_office_worker: About Me :
-I am a student at ITMO University, Saint-Petersburg, Russia
 
+
+### :man_office_worker: About Me : I am a student at ITMO University, Saint-Petersburg, Russia
 - :telescope: I am studying to be a software developer
 - :seedling: I took part in the translation of the Rust Book in 2024
 - :sparkles: In 2022, I won the international scientific Youth Forum "Step into the Future"
@@ -53,10 +53,6 @@ I am a student at ITMO University, Saint-Petersburg, Russia
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danp1t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :writing_hand: Blog Posts        
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 <!--
 **danp1t/danp1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
