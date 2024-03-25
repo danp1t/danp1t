@@ -33,6 +33,27 @@ I am a student at ITMO University, Saint-Petersburg, Russia
 - :call_me_hand: I have the title of Master of Sports of Russia in Russian draughts
 - :zap: In my free time, I run my blog in telegram [![TelegramChannel Badge](https://img.shields.io/badge/Telegram%20Channel-blue?logo=telegram&logoColor=white)](https://t.me/koddanila)
 
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg">
+</div>
 <!--
 **danp1t/danp1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
