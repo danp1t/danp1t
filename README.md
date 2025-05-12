@@ -50,7 +50,8 @@
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danp1t&hide=html,jupyter%20notebook&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danp1t&theme=github_dark" alt=""/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danp1t&hide=html,jupyter%20notebook&langs_count=10&layout=compact&theme=vision-friendly-dark" />  
 
 <!--
 **danp1t/danp1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
